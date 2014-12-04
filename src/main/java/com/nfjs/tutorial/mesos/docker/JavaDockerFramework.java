@@ -25,7 +25,7 @@ public class JavaDockerFramework {
     /**
      * Command-line entry point.
      * <br/>
-     * Example usage: java JavaDockerFramework 127.0.0.1:5050 fedora/apache 2
+     * Example usage: java JavaDockerFramework 127.0.0.1:5050 nginx 2
      */
     public static void main(String[] args) throws Exception {
 

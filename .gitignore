@@ -2,3 +2,6 @@
 build
 *.i??
 
+.classpath
+.settings
+.project
